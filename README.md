@@ -8,4 +8,9 @@
   
 # Descriere
 
-#Tecnologii folosite
+<>
+
+# Tecnologii folosite
+
+
+
