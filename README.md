@@ -10,7 +10,7 @@
 "Cheby" își propune explorarea Legăturii Chebyshev ca mijloc de deplasare pentru mecanisme. Ansamblul a fost printat 3D din PLA, fiind introduși rulmenți în punctele de rotație. Acesta este controlat wireless prin modulul ESP32 (cu ajutorul unui Arduino UNO).
 În cinematică, Legătura Chebyshev (asemenea altor legături precum Klann și Jansen), își propune să transforme mișcarea de rotație în mișcare liniară, cu viteză aproximativ constantă. 
 
-<img src="/imagini/spal.jpg">
+<img src="/imagini/cheby.jpg">
 
 
 # Tecnologii folosite
