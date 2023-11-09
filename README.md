@@ -21,8 +21,8 @@ Cod: Arduino IDE, C++
 
 
 # Distinctii
-Premiul I - Infoeducatie 2023 Etapa Judeteana/a sectoarelor Bucuresti  
-Calificare la Infoeducatie Etapa Nationala 2023
+Premiul I - Olimpiada  Infoeducatie 2023 Etapa Judeteana/a sectoarelor Bucuresti  
+Calificare la Olimpiada Infoeducatie Etapa Nationala 2023
 
 
 
