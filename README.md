@@ -20,4 +20,9 @@ Imprimare 3D: Simplify 3D
 Cod: Arduino IDE, C++  
 
 
+# Distinctii
+Premiul I - Infoeducatie 2023 Etapa Judeteana/a sectoarelor Bucuresti  
+Calificare la Infoeducatie Etapa Nationala 2023
+
+
 
